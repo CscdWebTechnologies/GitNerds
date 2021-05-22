@@ -2,6 +2,8 @@
 *{
   box-sizing: border-box;
 }
+
+/* Added comment to app.css */
 .App {
   background-color: #FFFFFF;
   width: 100%;
